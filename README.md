@@ -2,71 +2,174 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/desalegn-tamirat-19727520a/">
-    <img src="https://img.shields.io/badge/LinkedIn-19727520a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Desalegn%20Tamirat-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:desalegntamirateshetu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-desalegntamirateshetu@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/github/followers/DesalegnTamirat?label=Follow%20Me&style=for-the-badge" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/followers/DesalegnTamirat?label=Follow&style=for-the-badge" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-- 🌍 Based in **Addis Ababa, Ethiopia**
-- 💻 Front-end Developer | Competitive Programming Enthusiast
-- 📚 Currently working as an intern at **A2SV** on a peer-to-peer book-lending platform called **READSHARE**
-- 🛠️ I’m passionate about **JavaScript, CSS**, and **web development**
-- 🌱 Learning **Node.js** and **TypeScript**
-- 📧 Reach out at: [desalegntamirateshetu@gmail.com](mailto:desalegntamirateshetu@gmail.com)
+* 🌍 Based in **Addis Ababa, Ethiopia**
+* 💻 **Full-Stack Developer | AI Engineer | Educator**
+* 🧠 Specialized in **LLMs, AI pipelines, and scalable systems**
+* 👨‍🏫 **Head of Education @ A2SV** — teaching DSA, Fullstack & AI
+* 🔬 Former **AI Engineer @ Psynthetic** (STEM problem generation systems)
+* 📈 Solved **1000+ DSA problems** & mentored multiple students into A2SV
+* ⚡ Passionate about building impactful tech & guiding others
+
+---
+
+## 🧠 What I Do
+
+* 🤖 Build **AI-powered systems** using LLMs
+* 🏗️ Develop **full-stack web applications**
+* 📊 Design **data pipelines & automation systems**
+* 👨‍🏫 Teach **Data Structures, Algorithms & Software Engineering**
+* 🧪 Work on **AI evaluation, prompt engineering & problem modeling**
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+### 💻 Languages
+
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 </p>
+
+### ⚙️ Frameworks & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js"/>
+  <img src="https://img.shields.io/badge/-Express.js-grey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/-SQL-blue?style=flat-square"/>
+</p>
+
+### 🤖 AI & Data
+
+<p>
+  <img src="https://img.shields.io/badge/-LLMs-black?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-Prompt%20Engineering-purple?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch"/>
+  <img src="https://img.shields.io/badge/-JSON-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square"/>
+</p>
+
+---
+
+## 💼 Experience
+
+### 🔬 AI Problem Generation Engineer — Psynthetic
+
+**Jan 2024 – Aug 2025**
+
+* Built scalable pipelines for **automated STEM problem generation**
+* Reduced **JSON parsing errors by 40%**
+* Designed **LaTeX normalization & error correction systems**
+* Generated **thousands of PhD-level problems weekly**
+* Worked with **LLMs, prompt engineering, and evaluation pipelines**
+
+---
+
+### 👨‍🏫 Head of Education — A2SV
+
+**Jun 2023 – Present**
+
+* Led **DSA training (arrays, graphs, DP, trees)**
+* Taught **fullstack development (React, Node.js, MongoDB, TypeScript)**
+* Mentored teams building real-world applications
+* Integrated **AI tools into learning workflows**
+
+---
+
+### 📚 Trainee — A2SV Program
+
+**Sep 2021 – Jun 2023**
+
+* Solved **1000+ problems (DSA & System Design)**
+* Participated in **mock interviews & peer coding**
+* Mentored junior developers
+
+---
+
+## 🚀 Projects
+
+### 🧪 Hard STEM Data Platform
+
+🔗 https://psynthetic.vercel.app/home
+
+* Built AI pipelines for generating complex STEM problems
+* Ensured **data quality, structure, and academic rigor**
+* Enabled large-scale dataset creation for AI evaluation
+
+---
+
+### 🤰 Adot — Maternity Companion App
+
+🔗 https://www.adot.life/
+
+* Fullstack development for healthcare tracking system
+* Built dashboards for mothers & doctors
+* Implemented **real-time data tracking & communication**
+
+---
+
+### 👨‍💻 Fullstack Mentorship Projects
+
+🔗 https://hub.a2sv.org/
+
+* Mentored teams building real-world applications
+* Guided **frontend, backend & deployment workflows**
+
+---
+
+### 📊 DSA Journey
+
+🔗 https://leetcode.com/u/DesalgenTamirat/
+
+* Solved **1000+ algorithm problems**
+* Focused on **efficiency, system design & problem solving**
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DesalegnTamirat&show_icons=true&theme=tokyonight" alt="Desalegn's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=DesalegnTamirat&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DesalegnTamirat&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DesalegnTamirat&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 💼 Current Projects
+## 📫 Contact Me
 
-- **READSHARE**: Peer-to-peer book lending platform (in development)
-- **Portfolio Website**: Showcasing my work (coming soon!)
+* 📧 Email: [desalegntamirateshetu@gmail.com](mailto:desalegntamirateshetu@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/desalegn-tamirat-19727520a/
 
 ---
 
-## 📫 How to Reach Me
+## ⚡ Fun Fact
+
+I enjoy **teaching as much as building**, and I believe the best way to master something is to help others understand it.
+
+---
 
 <p align="center">
-  <a href="mailto:desalegntamirateshetu@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/desalegn-tamirat-19727520a/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="Made with Markdown">
+  ⭐️ From <strong>Desalegn Tamirat</strong>
 </p>
