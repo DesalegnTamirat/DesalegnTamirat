@@ -14,7 +14,6 @@
 
 ## 🚀 About Me
 
-* 🌍 Based in **Addis Ababa, Ethiopia**
 * 💻 **Full-Stack Developer | AI Engineer | Educator**
 * 🧠 Specialized in **LLMs, AI pipelines, and scalable systems**
 * 👨‍🏫 **Head of Education @ A2SV** — teaching DSA, Fullstack & AI
